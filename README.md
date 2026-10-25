@@ -9,7 +9,7 @@
 ### About Me
 
 Applied AI Engineer and Full Stack Developer.<br>
-I build AI agents and turn them into products people actually use.
+I build AI agents and turn them into products people actually use. <br>
 Currently exploring multi agent harnesses.
 
 ### Tech Stack
