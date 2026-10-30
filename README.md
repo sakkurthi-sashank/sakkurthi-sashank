@@ -1,5 +1,7 @@
 ## Hello, I am Sashank Sakkurthi!
 
+<img src="https://komarev.com/ghpvc/?username=sakkurthi-sashank&label=Profile%20views&color=fe428e&style=flat" alt="Profile views" />
+
 <a href="https://www.linkedin.com/in/sashanksakkurthi/"><img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="36" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/sakkurthi_"><img src="https://img.icons8.com/color/96/twitterx--v1.png" alt="X" width="36" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:sakkurthisashank@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" alt="Email" width="36" /></a>&nbsp;&nbsp;&nbsp;
@@ -22,6 +24,12 @@ Currently exploring multi agent harnesses.
 [Cosmiq](https://github.com/sakkurthi-sashank/cosmiq-eth) Turns prompts into full-stack Web3 apps.<br>
 [Cathago](https://github.com/sakkurthi-sashank/cathago-talenlio) Document scanning and matching system.
 
-<br>
+### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakkurthi-sashank&show_icons=true&theme=radical&custom_title=Sashank%27s%20GitHub%20Stats" alt="GitHub stats" />
+<p>
+ <img src="https://github-readme-stats.xsrazy.web.id/stats?username=sakkurthi-sashank&theme=radical&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.xsrazy.web.id/languages?username=sakkurthi-sashank&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="170" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=sakkurthi-sashank&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
